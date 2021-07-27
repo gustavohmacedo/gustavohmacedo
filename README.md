@@ -2,7 +2,7 @@
 
 Apaixonado por Tecnologia :heavy_exclamation_mark: ☕:blue_heart:
 
-Cursando Análise e Desenvolvolvimento de Sistemas
+Cursando Bacharelado em Ciência da Computação
 
 Em busca da minha primeira oportunidade em TI
 
