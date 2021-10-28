@@ -1,10 +1,8 @@
-## Back-End Developer [ JAVA ]
+## Software Developer [ JAVA ]
 
 Apaixonado por Tecnologia :heavy_exclamation_mark: ☕:blue_heart:
 
 Cursando Bacharelado em Ciência da Computação
-
-Em busca da minha primeira oportunidade em TI
 
 Welcome to my projects 😁
 
@@ -13,7 +11,7 @@ Welcome to my projects 😁
 :globe_with_meridians: Confira meu [Linkedin](https://www.linkedin.com/in/gustavohm/)
 
 
-Fique a vontade para trocar uma ideia 💬
+Fique à vontade para trocar uma ideia 💬
 
 
 
