@@ -1,4 +1,4 @@
-## Software Developer [ JAVA ]
+## Software Developer 
 
 Apaixonado por Tecnologia :heavy_exclamation_mark: ☕:blue_heart:
 
